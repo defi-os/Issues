@@ -1,8 +1,6 @@
 Backend(Web2)
 ---------------------------------------------
 1) Make CI/CD for python and nodejs apis(Priority:Low)
-2) Add more files for efficient quick tooling and scripting and get their global path setup 
-   by manage.py in python api(Priority:Low)
    
 Backend(Web3)
 ---------------------------------------------
@@ -14,4 +12,6 @@ Non Tech
 
 Working On 
 ----------------------------------------------
-1) Push github user ids rather than github usernames in smart contract helper function when creating repository(Priority: High)
+1) Working on dotenv package
+2) Add more files for efficient quick tooling and scripting and get their global path setup 
+   by manage.py in python api
