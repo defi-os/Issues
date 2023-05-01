@@ -1,6 +1,7 @@
 Backend(Web2)
 ---------------------------------------------
 1) Make CI/CD for python and nodejs apis(Priority:Low)
+2) Make Unit tests for python and nodejs apis(Priority:Low)
    
 Backend(Web3)
 ---------------------------------------------
@@ -12,5 +13,4 @@ Non Tech
 
 Working On 
 ----------------------------------------------
-1) Add more files for efficient quick tooling and scripting and get their global path setup 
-   by manage.py in python api
+1) Restore nodejs server .env file and also connect nodejs code to ipfs
