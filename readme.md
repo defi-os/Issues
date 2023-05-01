@@ -11,6 +11,3 @@ Non Tech
 ---------------------------------------------
 1) Start maintaining twitter page to promote(Last tweet on April 8 and even before very low activity)(Priority: High)
 
-Working On 
-----------------------------------------------
-1) Restore nodejs server .env file and also connect nodejs code to ipfs
