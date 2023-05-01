@@ -18,6 +18,4 @@ Non Tech
 
 Working On 
 ----------------------------------------------
-1) Make tsc compile work for nodejs contract connectors, showing error in compiling anchor stuff(Priority: High)
-Investigation: Error in build breakage  in @project-serun/anchor
-Sol: Remove compiler check for it in tsconfig and start issue on anchor github
+1) Audit nodejs code to mongodb setup
