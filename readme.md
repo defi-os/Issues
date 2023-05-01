@@ -1,7 +1,3 @@
-Frontend
----------------------------------------------
-1) Push github user ids rather than github usernames in smart contract helper function when creating repository(Priority: High)
-
 Backend(Web2)
 ---------------------------------------------
 1) Make CI/CD for python and nodejs apis(Priority:Low)
@@ -18,4 +14,4 @@ Non Tech
 
 Working On 
 ----------------------------------------------
-1) Audit nodejs code to mongodb setup
+1) Push github user ids rather than github usernames in smart contract helper function when creating repository(Priority: High)
