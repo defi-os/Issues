@@ -12,6 +12,5 @@ Non Tech
 
 Working On 
 ----------------------------------------------
-1) Working on dotenv package
-2) Add more files for efficient quick tooling and scripting and get their global path setup 
+1) Add more files for efficient quick tooling and scripting and get their global path setup 
    by manage.py in python api
