@@ -1,3 +1,8 @@
+Frontend
+--------------------------------------------
+1) Make changes recommended by Abhishekh
+2) Change github url to metadata url in add commit smart contract
+
 Backend(Web2)
 ---------------------------------------------
 1) Make CI/CD for python and nodejs apis(Priority:Low)
