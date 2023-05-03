@@ -12,3 +12,4 @@ Backend(Web3)
 ---------------------------------------------
 1) Build the smart contract bottom up and figure out how when stack overflow error occurs to solve  
 2) Verify how claim_rewards and claim_funds work and why there are two of these in our smart contract
+3) Refact tree nodes in project creation to be same as master node
