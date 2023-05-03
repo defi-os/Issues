@@ -10,5 +10,6 @@ Backend(Web2)
 
 Backend(Web3)
 ---------------------------------------------
-1) Build the smart contract bottom up and figure out how when stack overflow error occurs to solve  
-2) Refactor tree nodes in project creation to be same as master node
+1) Build the smart contract bottom up and figure out how when stack overflow error occurs to solve(Priority:High)
+2) Refactor tree nodes in project creation to be same as master node(Priority:High)
+3) Build core rust functionality to allow variable length context(Priority:Low)
