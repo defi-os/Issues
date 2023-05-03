@@ -10,10 +10,5 @@ Backend(Web2)
 
 Backend(Web3)
 ---------------------------------------------
-1) Audit accounts in context of each function and
-   
-   i) Build the smart contract bottom up and figure out how when stack overflow error occurs to solve
-      
-   iii) Read in more detail about #account and what can be sent in it
-   
+1) Build the smart contract bottom up and figure out how when stack overflow error occurs to solve  
 2) Verify how claim_rewards and claim_funds work and why there are two of these in our smart contract
