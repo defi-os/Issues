@@ -10,7 +10,4 @@ Backend(Web2)
 
 Backend(Web3)
 ---------------------------------------------
-1) Refactor tree nodes in project creation to be same as master node, Basically merge structs RoadMapMetaDataStore and Objective
-    in state.rs in one and refactor all necessccary code
-    (Priority:High)
-2) Build core rust functionality to allow variable length context(Priority:Low)
+1) Build core rust functionality to allow variable length context(Priority:Low)
