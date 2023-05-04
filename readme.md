@@ -10,4 +10,5 @@ Backend(Web2)
 
 Backend(Web3)
 ---------------------------------------------
-1) Build core rust functionality to allow variable length context(Priority:Low)
+1) Verify that claim rewards is working as should with Abhishekh
+2) Build core rust functionality to allow variable length context(Priority:Low)
