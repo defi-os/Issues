@@ -6,7 +6,5 @@ Backend(Web2)
 ---------------------------------------------
 1) Make CI/CD for python and nodejs apis(Priority:Low)
 2) Update nodejs api to work with new contracts
-
-Backend(Web3)
----------------------------------------------
-1) Correct the bonding curve helper functions and add more exception handling for math overflows
+3) Start working on github bots
+4) Start working on automated clone PR detection
