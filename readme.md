@@ -1,6 +1,7 @@
 Frontend
 --------------------------------------------
 1) Make changes recommended by Abhishekh
+2) Update Contract connectors 
 
 Backend(Web2)
 ---------------------------------------------
