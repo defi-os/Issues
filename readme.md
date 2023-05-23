@@ -9,5 +9,4 @@ Backend(Web2)
 
 Backend(Web3)
 ---------------------------------------------
-1) Get USDC staking working
-2) Correct the bonding curve helper functions
+1) Correct the bonding curve helper functions and add more exception handling for math overflows
