@@ -10,6 +10,7 @@ Backend(Web2)
 1) Make CI/CD for python and nodejs apis
 2) Build github bots
 3) Build automated clone PR detection
+4) Shift to a better db isolation from ec2
 
 Backend(Web3)
 ---------------------------------------------
