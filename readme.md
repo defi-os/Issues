@@ -17,8 +17,7 @@ Backend(Web2)
 Backend(Web3)
 ---------------------------------------------
 1) Update contracts to resolve long repo name bugs
-2) Update contracts to resolve security issue in swaps
-3) Migrate contract tests away from mocha
+2) Migrate contract tests away from mocha
 
 Design
 ---------------------------------------------
