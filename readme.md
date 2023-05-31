@@ -4,6 +4,7 @@ Frontend
 2) Fix any minor UI issues
 3) Change hard coded divide amount by fetching decimal value from rewards mint in swaps connectors
 4) Integrate Roadmaps and Objectives
+5) Implementation of Infinite scroll
 
 Backend(Web2)
 ---------------------------------------------
