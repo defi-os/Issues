@@ -12,6 +12,8 @@ Backend(Web2)
 2) Build github bots
 3) Build automated clone PR detection
 4) Change /profile/contributions api endpint to include token spl address and token image url 
+5) Migrate python api to typescript
+6) Add tests to typescript apis
 
 Backend(Web3)
 ---------------------------------------------
