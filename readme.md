@@ -15,9 +15,8 @@ Backend(Web2)
 
 Backend(Web3)
 ---------------------------------------------
-1) Update contracts to allow for better integration of spl token import
-2) Update contracts to resolve long repo name bugs
-3) Update contracts to resolve security issue in swaps
+1) Update contracts to resolve long repo name bugs
+2) Update contracts to resolve security issue in swaps
 
 Design
 ---------------------------------------------
