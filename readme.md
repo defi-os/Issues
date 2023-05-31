@@ -10,7 +10,7 @@ Backend(Web2)
 1) Make CI/CD for python and nodejs apis
 2) Build github bots
 3) Build automated clone PR detection
-4) Shift to a better db isolation from ec2
+4) Change /profile/contributions api endpint to include token spl address and token image url 
 
 Backend(Web3)
 ---------------------------------------------
