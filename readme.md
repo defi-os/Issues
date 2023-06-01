@@ -5,6 +5,7 @@ Frontend
 3) Change hard coded divide amount by fetching decimal value from rewards mint in swaps connectors
 4) Integrate Roadmaps and Objectives
 5) Implementation of Infinite scroll
+6) Implement import existing spl token properly, migrate away from hard-coded values
 
 Backend(Web2)
 ---------------------------------------------
