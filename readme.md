@@ -14,11 +14,15 @@ Backend(Web2)
 2) Build github bots
 3) Migrate python api to typescript
 4) Add tests to typescript apis
+5) Correct Roadmap and Objective typescript APIs
+6) Add python API for dependency graph
 
 Backend(Web3)
 ---------------------------------------------
 1) Update contracts to resolve long repo name bugs
-2) Migrate contract tests away from mocha
+2) Build a custom heap allocator for efficient heap usage
+3) Migrate contracts to spl token 2022 standard
+4) Migrate contract tests away from mocha
 
 Design
 ---------------------------------------------
