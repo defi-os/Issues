@@ -12,9 +12,8 @@ Backend(Web2)
 ---------------------------------------------
 1) Make CI/CD for python and nodejs apis
 2) Build github bots
-3) Build automated clone PR detection
-4) Migrate python api to typescript
-5) Add tests to typescript apis
+3) Migrate python api to typescript
+4) Add tests to typescript apis
 
 Backend(Web3)
 ---------------------------------------------
