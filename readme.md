@@ -16,7 +16,6 @@ Backend(Web2)
 3) Migrate python api to typescript
 4) Add tests to typescript apis
 5) Correct Roadmap and Objective typescript APIs
-6) Add python API for dependency graph
 
 Backend(Web3)
 ---------------------------------------------
