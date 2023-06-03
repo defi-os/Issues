@@ -7,6 +7,7 @@ Frontend
 5) Implementation of Infinite scroll
 6) Implement import existing spl token properly, migrate away from hard-coded values
 7) Add keep alive of 60 seconds headers to each api call, calling the python api, put it in a config file, so could change easily
+8) Research on solitia
 
 Backend(Web2)
 ---------------------------------------------
