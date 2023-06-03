@@ -23,6 +23,7 @@ Backend(Web3)
 2) Build a custom heap allocator for efficient heap usage
 3) Migrate contracts to spl token 2022 standard
 4) Migrate contract tests away from mocha
+5) Add USDC buy/sell
 
 Design
 ---------------------------------------------
