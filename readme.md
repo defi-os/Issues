@@ -29,3 +29,8 @@ Design
 Blocked
 ---------------------------------------------
 1) Migrate contracts to spl token 2022 standard
+
+Future
+---------------------------------------------
+1) Custom heap allocator using free lists, good example https://github.com/oxfeeefeee/smalloc/blob/main/src/lib.rs.
+   Dont really need it right now but something when we try to scale put contracts to hopefully billion people or more
