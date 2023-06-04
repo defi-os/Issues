@@ -19,10 +19,9 @@ Backend(Web2)
 
 Backend(Web3)
 ---------------------------------------------
-1) Update contracts to resolve long repo name bugs
-2) Build a custom heap allocator for efficient heap usage
-3) Migrate contract tests away from mocha
-4) Add USDC buy/sell
+1) Build a custom heap allocator for efficient heap usage
+2) Migrate contract tests away from mocha
+3) Add USDC buy/sell
 
 Design
 ---------------------------------------------
