@@ -23,6 +23,7 @@ Backend(Web2)
 Backend(Web3)
 ---------------------------------------------
 1) Migrate contract tests away from mocha
+2) Update tests for new usdc buy/sell
 
 Design
 ---------------------------------------------
