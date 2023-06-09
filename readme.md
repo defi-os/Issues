@@ -24,6 +24,7 @@ Backend(Web3)
 ---------------------------------------------
 1) Migrate contract tests away from mocha
 2) Update tests for new usdc buy/sell
+3) Figure out why anchor events are not updating
 
 Design
 ---------------------------------------------
