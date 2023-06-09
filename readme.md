@@ -10,15 +10,15 @@ Frontend
 8) Research on solitia
 9) Integrate orca and raydium in frontend
 10) Integrate pyth price feeds in frontend
-
+11) Fix re-fresh page, signer object not found issue
 
 Backend(Web2)
 ---------------------------------------------
 1) Make CI/CD for python and nodejs apis
-2) Build github bots
-3) Migrate python api to typescript
-4) Add tests to typescript apis
-5) Correct Roadmap and Objective typescript APIs
+2) Migrate python api to typescript
+3) Add tests to typescript apis
+4) Correct Roadmap and Objective typescript APIs
+5) Upstream fixes for PyGithub time sync issue
 
 Backend(Web3)
 ---------------------------------------------
