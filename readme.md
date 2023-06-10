@@ -18,8 +18,7 @@ Backend(Web2)
 2) Migrate python api to typescript
 3) Add tests to typescript apis
 4) Correct Roadmap and Objective typescript APIs
-5) Upstream fixes for PyGithub time sync issue
-6) Add stake/unstake part of bots
+5) Add stake/unstake part of bots
 
 Backend(Web3)
 ---------------------------------------------
