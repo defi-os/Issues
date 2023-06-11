@@ -13,17 +13,16 @@ Frontend
 
 Backend(Web2)
 ---------------------------------------------
-1) Make CI/CD for python and nodejs apis
-2) Migrate python api to typescript
-3) Add tests to typescript apis
-4) Correct Roadmap and Objective typescript APIs
-5) Add stake/unstake part of bots
+1) Make CI/CD for python and nodejs apis(Priority:Low)
+2) Migrate python api to typescript(Priority:Low)
+3) Add tests to typescript apis(Priority: Medium)
+4) Add child objectives part of typescript api(Priority: High)
+5) Add stake/unstake part of bots(Priority:Medium)
 
 Backend(Web3)
 ---------------------------------------------
-1) Migrate contract tests away from mocha
-2) Update tests for new usdc buy/sell
-3) Figure out why anchor events are not updating
+1) Migrate contract tests away from mocha(Priority: Low)
+2) Figure out why anchor events are not updating(Priority: Extremely Extremely high)
 
 Design
 ---------------------------------------------
