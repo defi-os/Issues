@@ -23,6 +23,7 @@ Backend(Web3)
 ---------------------------------------------
 1) Migrate contract tests away from mocha(Priority: Low)
 2) Figure out why anchor events are not updating(Priority: Extremely Extremely high)
+3) Publish web3 connector typescript sdk on npm publicaly(Priority: Low)
 
 Design
 ---------------------------------------------
