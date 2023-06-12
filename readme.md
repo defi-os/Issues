@@ -2,14 +2,12 @@ Frontend
 --------------------------------------------
 1) Make any frontend changes recommended by Abhishekh
 2) Fix any minor UI issues
-3) Change hard coded divide amount by fetching decimal value from rewards mint in swaps connectors
-4) Integrate Roadmaps and Objectives
-5) Implementation of Infinite scroll
-6) Implement import existing spl token properly, migrate away from hard-coded values
-7) Add keep alive of 60 seconds headers to each api call, calling the python api, put it in a config file, so could change easily
-8) Integrate orca and raydium in frontend
-9) Integrate pyth price feeds in frontend
-10) Fix re-fresh page, signer object not found issue
+3) Integrate Roadmaps and Objectives
+4) Implementation of Infinite scroll
+5) Implement import existing spl token properly, migrate away from hard-coded values
+6) Integrate orca and raydium in frontend
+7) Integrate pyth price feeds in frontend
+8) Fix re-fresh page, signer object not found issue
 
 Backend(Web2)
 ---------------------------------------------
