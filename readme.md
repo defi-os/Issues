@@ -19,6 +19,7 @@ Backend(Web3)
 ---------------------------------------------
 1) Migrate contract tests away from mocha(Priority: Low)
 2) Publish web3 connector typescript sdk on npm publicaly(Priority: Low)
+3) Publish anchor's idl account(Priority:Low)
 
 Design
 ---------------------------------------------
