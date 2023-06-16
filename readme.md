@@ -2,18 +2,18 @@ Frontend
 --------------------------------------------
 1) Make any frontend changes recommended by Abhishekh
 2) Fix any minor UI issues
-3) Integrate Roadmaps and Objectives
+3) Integrate Objectives
 4) Implementation of Infinite scroll
 5) Implement import existing spl token properly, migrate away from hard-coded values
 8) Fix re-fresh page, signer object not found issue
 
 Backend(Web2)
 ---------------------------------------------
-1) Make CI/CD for python and nodejs apis(Priority:Low)
-2) Migrate python api to typescript(Priority:Low)
-3) Add tests to typescript apis(Priority: Medium)
-4) Add child objectives part of typescript api(Priority: High)
-5) Add stake/unstake part of bots(Priority:Medium)
+1) Make CI/CD for nodejs apis(Priority:Low)
+2) Add tests to typescript apis(Priority: Medium)
+3) Add child objectives part of typescript api(Priority: High)
+4) Add stake/unstake part of bots(Priority:Medium)
+5) Migrate the entire web2 python and nodejs api to Postgres(Priority:High)
 
 Backend(Web3)
 ---------------------------------------------
