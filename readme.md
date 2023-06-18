@@ -13,13 +13,13 @@ Backend(Web2)
 2) Add tests to typescript apis(Priority: Medium)
 3) Add child objectives part of typescript api(Priority: High)
 4) Add stake/unstake part of bots(Priority:Medium)
-5) Migrate the entire web2 python and nodejs api to Postgres(Priority:High)
 
 Backend(Web3)
 ---------------------------------------------
 1) Migrate contract tests away from mocha(Priority: Low)
 2) Publish web3 connector typescript sdk on npm publicaly(Priority: Low)
 3) Publish anchor's idl account(Priority:Low)
+4) Add skill validation staking(Priority:High)
 
 Design
 ---------------------------------------------
