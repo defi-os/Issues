@@ -2,17 +2,14 @@ Frontend
 --------------------------------------------
 1) Make any frontend changes recommended by Abhishekh
 2) Fix any minor UI issues
-3) Integrate Objectives
-4) Implementation of Infinite scroll
-5) Implement import existing spl token properly, migrate away from hard-coded values
-8) Fix re-fresh page, signer object not found issue
+3) Implementation of Infinite scroll
+4) Implement import existing spl token properly, migrate away from hard-coded values
 
 Backend(Web2)
 ---------------------------------------------
 1) Make CI/CD for nodejs apis(Priority:Low)
 2) Add tests to typescript apis(Priority: Medium)
-3) Add child objectives part of typescript api(Priority: High)
-4) Add stake/unstake part of bots(Priority:Medium)
+3) Add stake/unstake part of bots(Priority:Medium)
 
 Backend(Web3)
 ---------------------------------------------
