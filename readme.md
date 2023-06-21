@@ -1,22 +1,17 @@
 Frontend
 --------------------------------------------
-1) Make any frontend changes recommended by Abhishekh
-2) Fix any minor UI issues
-3) Implementation of Infinite scroll
-4) Implement import existing spl token properly, migrate away from hard-coded values
+1) Implementation of Infinite scroll
 
 Backend(Web2)
 ---------------------------------------------
 1) Make CI/CD for nodejs apis(Priority:Low)
-2) Add tests to typescript apis(Priority: Medium)
-3) Add stake/unstake part of bots(Priority:Medium)
+2) Add tests to typescript apis(Priority: Low)
+3) Add stake/unstake part of bots(Priority:Low)
 
 Backend(Web3)
 ---------------------------------------------
 1) Migrate contract tests away from mocha(Priority: Low)
-2) Publish web3 connector typescript sdk on npm publicaly(Priority: Low)
-3) Publish anchor's idl account(Priority:Low)
-4) Add skill validation staking(Priority:High)
+2) Add skill validation staking(Priority:High)
 
 Design
 ---------------------------------------------
@@ -27,6 +22,7 @@ Blocked
 1) Migrate contracts to spl token 2022 standard
 2) Integrate orca and raydium in frontend
 3) Integrate pyth price feeds in frontend
+4) Publish web3 connector typescript sdk on npm publicaly
 
 Future
 ---------------------------------------------
